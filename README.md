@@ -1,6 +1,2 @@
-# mean-full-stack
-M.E.A.N. full stack application
-
-I consider this as a boilerplate application for MEAN stack development. 
-
-It is inspired from this tutorial on YouTube: https://youtu.be/OhPFgqHz68o
+# mean-cms
+M.E.A.N. (MongoDB, Express.js, Angular.js, Node.js) stack Content Management System
