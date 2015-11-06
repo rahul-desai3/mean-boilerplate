@@ -1,2 +1,1 @@
-# mean-cms
-M.E.A.N. (MongoDB, Express.js, Angular.js, Node.js) stack Content Management System
+A simple MEAN (MongoDB, Express.js, Angular.js, Node.js) stack boilerplate to start with any MEAN stack application.
